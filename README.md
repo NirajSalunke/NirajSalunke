@@ -1,5 +1,5 @@
 # 💫 About Me:
-I m a Front-End Developer with pretty good experience in JavaScript, and good hands on frameworks like React, Node.js, and Three.js (currently learning). I m a quick learner and collaborate closely with clients to create efficient, scalable, and user-friendly solutions that solve real-world problems. Let s work together to bring your ideas to life!
+I m a 3D Web and Full-Stack Developer with pretty good experience in JavaScript,TypeScript and good hands on frameworks like Nextjs. Also with Reactjs,Express, MongoDB Node.js, and Three.js. I m a quick learner and collaborate closely with clients to create efficient, scalable, and user-friendly solutions that solve real-world problems. Let s work together to bring your ideas to life!
 
 
 ## 🌐 Socials:
