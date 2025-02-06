@@ -17,7 +17,7 @@
 
 - 🤝 I’m looking for help with **Backend Development And AI**
 
-- 💬 Ask me about **Full Stack Web Development, Three3D development**
+- 💬 Ask me about **Full Stack Web Development, Threejs(3D Web) development**
 
 - 📫 How to reach me **nirajsalunke07@gmail.com**
 
