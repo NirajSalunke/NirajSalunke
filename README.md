@@ -43,7 +43,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,html,css,java,cpp,docker,express,figma,threejs,notion,nextjs,firebase,mongodb,mysql,nodejs,postgres,react,supabase,tailwind,npm,ts,vercel&perline=8" />
+    <img src="https://skillicons.dev/icons?i=ts,js,html,css,java,cpp,docker,express,figma,threejs,notion,nextjs,firebase,mongodb,mysql,nodejs,postgres,react,supabase,tailwind,npm,golang,vercel&perline=8" />
   </a>
 </p>
 
