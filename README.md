@@ -48,10 +48,11 @@
 </p>
 
 <hr/>
+
 <p align=center>
     <div align="center">
         <a>
-            <img width=396 src="https://github-readme-stats.vercel.app/api?username=NirajSalunke&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" alt="NirajSalunke" /> 
+            <img width=396 src="https://github-readme-stats.vercel.app/api/top-langs/?username=NirajSalunke&layout=compact&theme=midnight-purple&show_icons=true&hide_border=true" alt="NirajSalunke" /> 
         </a>
     &nbsp; &nbsp; &nbsp;
     </div> 
@@ -59,6 +60,3 @@
 </p>
 
 
-
-
-![](https://hit.yhype.me/github/profile?user_id=113599034)
