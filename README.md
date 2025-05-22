@@ -11,11 +11,11 @@
 
 
 
-- 🔭 I’m currently working on **CLI tools and Sass based Project**
+- 🔭 I’m currently working on **CLI tools and SASS based Project**
 
-- 🌱 I’m currently learning **GO lang with PostgreSQL and DevOps**
+- 🌱 I’m currently learning **DevOps**
 
-- 🤝 I’m looking for help with **Backend Development And AI**
+- 🤝 I’m looking for help with **AI and CP**
 
 - 💬 Ask me about **Full Stack Web Development, Threejs(3D Web) development**
 
