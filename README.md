@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/NirajSalunke">
-    <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif"/>
+   <img width="2000" height="400" alt="image" src="https://github.com/user-attachments/assets/0aa4d38e-1402-4208-b640-99b83296adfa" />
   </a>
 </p>
 
