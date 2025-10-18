@@ -23,7 +23,7 @@
 
 - ⚡ Fun fact **Nothing!!!**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 
 <p align="center">
   <a href="https://github.com/NirajSalunke">
@@ -40,11 +40,38 @@
   <img src="https://komarev.com/ghpvc/?username=NirajSalunke&style=for-the-badge"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h1 align="center">I am Pretty Familiar with</h3>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,html,css,java,cpp,docker,express,figma,django,threejs,notion,nextjs,firebase,mongodb,mysql,nodejs,postgres,react,supabase,tailwind,npm,golang,vercel&perline=8" />
-  </a>
+ <div align="center">
+  <!-- Frontend Development -->
+  <h3>Frontend Development</h3>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,tailwind,vite,threejs&perline=5" />
+
+  <!-- Design & UI -->
+  <h3>Design & UI</h3>
+  <img src="https://skillicons.dev/icons?i=figma,materialui&perline=4" />
+
+  <!-- Backend / Server-side -->
+  <h3>Backend / Server-side</h3>
+  <img src="https://skillicons.dev/icons?i=js,golang,java,py,nodejs,express,django,fastapi,flask,spring,kafka,maven,tauri&perline=7" />
+
+  <!-- Database -->
+  <h3>Database</h3>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase,firebase,redis&perline=9" />
+
+  <!-- Cloud & Deployment -->
+  <h3>Cloud & Deployment</h3>
+  <img src="https://skillicons.dev/icons?i=vercel,aws,git,github,githubactions,kubernetes,docker,netlify&perline=8" />
+
+  <!-- Package Managers & Testing -->
+  <h3>Package Managers & Testing</h3>
+  <img src="https://skillicons.dev/icons?i=npm,pnpm,jest&perline=9" />
+
+  <!-- IDEs & Utilities -->
+  <h3>IDEs & Utilities</h3>
+  <img src="https://skillicons.dev/icons?i=vscode,idea,notion,md&perline=9" />
+</div>
+
 </p>
 
 <hr/>
