@@ -45,7 +45,7 @@
  <div align="center">
   <!-- Frontend Development -->
   <h3>Frontend Development</h3>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,tailwind,vite,threejs&perline=5" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,tailwind,threejs&perline=5" />
 
   <!-- Design & UI -->
   <h3>Design & UI</h3>
@@ -53,7 +53,7 @@
 
   <!-- Backend / Server-side -->
   <h3>Backend / Server-side</h3>
-  <img src="https://skillicons.dev/icons?i=js,golang,java,py,nodejs,express,django,fastapi,flask,spring,kafka,maven,tauri&perline=7" />
+  <img src="https://skillicons.dev/icons?i=js,golang,java,py,nodejs,express,django,fastapi,flask,spring,kafka,tauri&perline=6" />
 
   <!-- Database -->
   <h3>Database</h3>
@@ -64,8 +64,8 @@
   <img src="https://skillicons.dev/icons?i=vercel,aws,git,github,githubactions,kubernetes,docker,netlify&perline=8" />
 
   <!-- Package Managers & Testing -->
-  <h3>Package Managers & Testing</h3>
-  <img src="https://skillicons.dev/icons?i=npm,pnpm,jest&perline=9" />
+  <h3>Package Managers, Testing & Build Tools</h3>
+  <img src="https://skillicons.dev/icons?i=npm,pnpm,jest,vite,maven,rollup&perline=9" />
 
   <!-- IDEs & Utilities -->
   <h3>IDEs & Utilities</h3>
