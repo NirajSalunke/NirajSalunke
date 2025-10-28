@@ -11,7 +11,7 @@
 
 
 
-- 🔭 I’m currently working on **CLI tools and SASS based Project**
+- 🔭 I’m currently working on **CLI tools and SaaS based Project**
 
 - 🌱 I’m currently learning **DevOps**
 
