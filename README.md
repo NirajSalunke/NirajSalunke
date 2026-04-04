@@ -35,6 +35,9 @@
   <a href="https://www.npmjs.com/~ctrlaltniraj">
     <img src="https://skillicons.dev/icons?i=npm&perline=1" />
   </a>
+  <a href="https://leetcode.com/u/ctrl_alt_neeraj/">
+   <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo"/>
+  </a>
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=NirajSalunke&style=for-the-badge"/>
