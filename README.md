@@ -64,7 +64,7 @@
 
   <!-- Cloud & Deployment -->
   <h3>Cloud & Deployment</h3>
-  <img src="https://skillicons.dev/icons?i=vercel,aws,git,github,githubactions,kubernetes,docker,netlify&perline=8" />
+  <img src="https://skillicons.dev/icons?i=vercel,aws,gcp,azure,git,github,githubactions,kubernetes,docker,netlify&perline=8" />
 
   <!-- Package Managers & Testing -->
   <h3>Package Managers, Testing & Build Tools</h3>
