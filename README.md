@@ -5,9 +5,7 @@
 </p>
 
 
-<h1 align="center">Hey, It's Niraj! 
-  <img src="https://user-images.githubusercontent.com/74038190/226190908-cd4e0a61-801d-4b69-955b-5bd82eb7c10e.gif" alt="A small GIF" style="width: 30px; height: 30px;"/>
-</h1>
+<h1 align="center">Hey, It's Niraj! </h1>
 
 
 
