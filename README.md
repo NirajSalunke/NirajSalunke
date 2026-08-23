@@ -7,21 +7,7 @@
 
 <h1 align="center">Hey, It's Niraj! </h1>
 
-
-
-- 🔭 I’m currently working on **CLI tools and SaaS based Project**
-
-- 🌱 I’m currently learning **DevOps**
-
-- 🤝 I’m looking for help with **AI and CP**
-
-- 💬 Ask me about **Full Stack Web Development, Threejs(3D Web) development**
-
-- 📫 How to reach me **nirajsalunke07@gmail.com**
-
-- ⚡ Fun fact **Nothing!!!**
-
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Connect with me</h3>
 
 <p align="center">
   <a href="https://github.com/NirajSalunke">
@@ -73,18 +59,6 @@
   <img src="https://skillicons.dev/icons?i=vscode,idea,notion,md&perline=9" />
 </div>
 
-</p>
-
-<hr/>
-
-<p align=center>
-    <div align="center">
-        <a>
-            <img width=396 src="https://github-readme-stats.vercel.app/api/top-langs/?username=NirajSalunke&layout=compact&theme=midnight-purple&show_icons=true&hide_border=true" alt="NirajSalunke" /> 
-        </a>
-    &nbsp; &nbsp; &nbsp;
-    </div> 
-    &nbsp; &nbsp;
 </p>
 
 
